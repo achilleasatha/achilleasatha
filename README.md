@@ -25,7 +25,7 @@ A data scientist passionate about:
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=achilleasatha&theme=react&show_icons=true)
 
-For more information about me, see my [CV](https://github.com/achilleasatha/achilleasatha/blob/master/CV_Achilleas_Athanasiou_Fragkoulis.pdf)
+For more information about me, see my [CV](https://github.com/achilleasatha/achilleasatha/blob/master/resume/CV_Achilleas_Athanasiou_Fragkoulis.pdf)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Achilleas_Athanasiou_Fragkoulis-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/achilleasathanasiou/) [![Gmail Badge](https://img.shields.io/badge/-achilleasatha@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:achilleasatha@gmail.com)](mailto:achilleasatha@gmail.com)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=achilleasatha.achilleasatha) 
