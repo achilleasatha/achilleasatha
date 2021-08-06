@@ -21,7 +21,7 @@ A data scientist passionate about:
                     <img src="https://github.com/achilleasatha/achilleasatha/blob/master/assets/tableau.png?raw=true" height="20"> Tableau
 -  **Qualifications :** [Certified Scrum Product Owner](http://bcert.me/sadfwakig)
 -  **Hobbies :** :kite::surfer: - :bike: - :motorcycle: - :minibus:
--  **Organization :** [Rimo3](https://rimo3.com/)
+-  **Organization :** [BEAT](https://thebeat.co/)
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=achilleasatha&theme=react&show_icons=true)
 
