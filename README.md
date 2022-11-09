@@ -1,19 +1,20 @@
 ### Hi there 👋 I'm Achilleas Athanasiou Fragkoulis
 
-A data scientist passionate about:
+I'm passionate about:
+- Data engineering :hammer_and_wrench:
+- ML engineering & ML Ops :cloud::rocket:
 - Experimentation :microscope:
 - Reinforcement learning :robot:
-- ML engineering & ML Ops :cloud::rocket:
 
 <hr \>
 
--  **Languages:** <img src="https://github.com/achilleasatha/achilleasatha/blob/master/assets/python.jpg?raw=true" height="20"> Python, 
-                   <img src="https://github.com/achilleasatha/achilleasatha/blob/master/assets/scala.jpg?raw=true" height="20"> Scala,
--  **Languages (limited experience):** <img src="https://github.com/achilleasatha/achilleasatha/blob/master/assets/r.jpg?raw=true" height="20"> R, 
+- **Languages:** <img src="https://github.com/achilleasatha/achilleasatha/blob/master/assets/python.jpg?raw=true" height="20"> Python, 
+                   <img src="https://github.com/achilleasatha/achilleasatha/blob/master/assets/scala.jpg?raw=true" height="20"> Scala
+- **Languages (limited experience):** <img src="https://github.com/achilleasatha/achilleasatha/blob/master/assets/r.jpg?raw=true" height="20"> R, 
                    <img src="https://github.com/achilleasatha/achilleasatha/blob/master/assets/sql.jpg?raw=true" height="20"> SQL, 
                    <img src="https://github.com/achilleasatha/achilleasatha/blob/master/assets/c++.png?raw=true" height="20"> C++, 
                    <img src="https://github.com/achilleasatha/achilleasatha/blob/master/assets/js.png?raw=true" height="20"> JavaScript
--  **Tech Stack :** <img src="https://github.com/achilleasatha/achilleasatha/blob/master/assets/hadoop.png?raw=true" height="20"> Hadoop,
+- **Tech Stack :** <img src="https://github.com/achilleasatha/achilleasatha/blob/master/assets/hadoop.png?raw=true" height="20"> Hadoop,
                     <img src="https://github.com/achilleasatha/achilleasatha/blob/master/assets/spark.png?raw=true" height="20"> Spark,
                     <img src="https://github.com/achilleasatha/achilleasatha/blob/master/assets/spark.png?raw=true" height="20"> PySpark,
                     <img src="https://github.com/achilleasatha/achilleasatha/blob/master/assets/kafka.png?raw=true" height="20"> Kafka,
@@ -23,9 +24,11 @@ A data scientist passionate about:
                     <img src="https://github.com/achilleasatha/achilleasatha/blob/master/assets/kubernetes.png?raw=true" height="20"> Kubernetes,
                     <img src="https://github.com/achilleasatha/achilleasatha/blob/master/assets/airflow.png?raw=true" height="20"> Airflow,
                     <img src="https://github.com/achilleasatha/achilleasatha/blob/master/assets/argo.png?raw=true" height="20"> Argo,
--  **Qualifications :** [Certified Scrum Product Owner](http://bcert.me/sadfwakig)
--  **Hobbies :** :kite::surfer: - :bike: - :motorcycle: - :minibus:
--  **Organization :** [BEAT](https://thebeat.co/)
+                    <img src="https://github.com/achilleasatha/achilleasatha/blob/master/assets/prometheus.png?raw=true" height="20"> Prometheus,
+                    <img src="https://github.com/achilleasatha/achilleasatha/blob/master/assets/grafana.png?raw=true" height="20"> Grafana
+- **Qualifications :** [Certified Scrum Product Owner](http://bcert.me/sadfwakig)
+- **Hobbies :** :kite::surfer: - :bike: - :motorcycle: - :minibus:
+- **Organization :** [BEAT](https://thebeat.co/)
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=achilleasatha&theme=react&show_icons=true)
 
