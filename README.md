@@ -9,9 +9,9 @@ I'm passionate about:
 <hr \>
 
 - **Languages:** <img src="https://github.com/achilleasatha/achilleasatha/blob/master/assets/python.jpg?raw=true" height="20"> Python, 
+                   <img src="https://github.com/achilleasatha/achilleasatha/blob/master/assets/sql.jpg?raw=true" height="20"> SQL, 
                    <img src="https://github.com/achilleasatha/achilleasatha/blob/master/assets/scala.jpg?raw=true" height="20"> Scala
 - **Languages (limited experience):** <img src="https://github.com/achilleasatha/achilleasatha/blob/master/assets/r.jpg?raw=true" height="20"> R, 
-                   <img src="https://github.com/achilleasatha/achilleasatha/blob/master/assets/sql.jpg?raw=true" height="20"> SQL, 
                    <img src="https://github.com/achilleasatha/achilleasatha/blob/master/assets/c++.png?raw=true" height="20"> C++, 
                    <img src="https://github.com/achilleasatha/achilleasatha/blob/master/assets/js.png?raw=true" height="20"> JavaScript
 - **Tech Stack :** <img src="https://github.com/achilleasatha/achilleasatha/blob/master/assets/hadoop.png?raw=true" height="20"> Hadoop,
