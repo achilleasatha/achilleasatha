@@ -28,7 +28,7 @@ I'm passionate about:
                     <img src="https://github.com/achilleasatha/achilleasatha/blob/master/assets/grafana.png?raw=true" height="20"> Grafana
 - **Qualifications :** [Certified Scrum Product Owner](http://bcert.me/sadfwakig)
 - **Hobbies :** :kite::surfer: - :bike: - :motorcycle: - :minibus:
-- **Organization :** [BEAT](https://thebeat.co/)
+- **Organization :** [Pace Revenue](https://pacerevenue.com/)
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=achilleasatha&theme=react&show_icons=true)
 
