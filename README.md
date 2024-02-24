@@ -25,7 +25,8 @@ I'm passionate about:
 - **Hobbies :** :kite::surfer: - :bike: - :motorcycle: - :minibus:
 - **Organization :** [FLYR Hospitality](https://flyr.com/hospitality/)
 
-![github stats](https://github-readme-stats.vercel.app/api?username=achilleasatha&theme=react&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=achilleasatha&theme=dark&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=achilleasatha)](https://github.com/achilleasatha/github-readme-stats)
 
 For more information about me, see my [CV](https://achilleasatha.github.io/pdf/CV_AchilleasAthanasiouFragkoulis.pdf)
 
