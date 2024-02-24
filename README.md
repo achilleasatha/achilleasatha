@@ -9,10 +9,6 @@ I'm passionate about:
 
 - **Languages:** <img src="https://github.com/achilleasatha/achilleasatha/blob/master/assets/python.jpg?raw=true" height="20"> Python, 
                    <img src="https://github.com/achilleasatha/achilleasatha/blob/master/assets/sql.jpg?raw=true" height="20"> SQL, 
-                   <img src="https://github.com/achilleasatha/achilleasatha/blob/master/assets/scala.jpg?raw=true" height="20"> Scala
-- **Languages (limited experience):** <img src="https://github.com/achilleasatha/achilleasatha/blob/master/assets/r.jpg?raw=true" height="20"> R, 
-                   <img src="https://github.com/achilleasatha/achilleasatha/blob/master/assets/c++.png?raw=true" height="20"> C++, 
-                   <img src="https://github.com/achilleasatha/achilleasatha/blob/master/assets/js.png?raw=true" height="20"> JavaScript
 - **Tech Stack :** <img src="https://github.com/achilleasatha/achilleasatha/blob/master/assets/hadoop.png?raw=true" height="20"> Hadoop,
                     <img src="https://github.com/achilleasatha/achilleasatha/blob/master/assets/spark.png?raw=true" height="20"> Spark,
                     <img src="https://github.com/achilleasatha/achilleasatha/blob/master/assets/spark.png?raw=true" height="20"> PySpark,
@@ -27,7 +23,7 @@ I'm passionate about:
                     <img src="https://github.com/achilleasatha/achilleasatha/blob/master/assets/grafana.png?raw=true" height="20"> Grafana
 - **Qualifications :** [Certified Scrum Product Owner](http://bcert.me/sadfwakig)
 - **Hobbies :** :kite::surfer: - :bike: - :motorcycle: - :minibus:
-- **Organization :** [Pace Revenue](https://pacerevenue.com/)
+- **Organization :** [FLYR Hospitality](https://flyr.com/hospitality/)
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=achilleasatha&theme=react&show_icons=true)
 
