@@ -26,7 +26,7 @@ I'm passionate about:
 - **Organization :** [FLYR Hospitality](https://flyr.com/hospitality/)
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=achilleasatha&theme=dark&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=achilleasatha)](https://github.com/achilleasatha/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=achilleasatha&size_weight=0.5&count_weight=0.5))](https://github.com/achilleasatha/github-readme-stats)
 
 For more information about me, see my [CV](https://achilleasatha.github.io/pdf/CV_AchilleasAthanasiouFragkoulis.pdf)
 
