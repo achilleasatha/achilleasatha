@@ -30,7 +30,7 @@ I'm passionate about:
 For more information about me, see my [CV](https://https://github.com/achilleasatha/achilleasatha.github.io/cv)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Achilleas_Athanasiou_Fragkoulis-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/achilleasathanasiou/) [![Gmail Badge](https://img.shields.io/badge/-achilleasatha@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:achilleasatha@gmail.com)](mailto:achilleasatha@gmail.com)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=achilleasatha.achilleasatha) 
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fachilleasatha%2Fachilleasatha&countColor=%23263759)
 
 <hr \>
 </p>
