@@ -27,7 +27,7 @@ I'm passionate about:
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=achilleasatha&theme=react&show_icons=true)
 
-For more information about me, see my [CV](https://https://github.com/achilleasatha/achilleasatha.github.io/cv)
+For more information about me, see my [CV](https://achilleasatha.github.io/pdf/CV_AchilleasAthanasiouFragkoulis.pdf)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Achilleas_Athanasiou_Fragkoulis-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/achilleasathanasiou/) [![Gmail Badge](https://img.shields.io/badge/-achilleasatha@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:achilleasatha@gmail.com)](mailto:achilleasatha@gmail.com)
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fachilleasatha%2Fachilleasatha&countColor=%23263759)
