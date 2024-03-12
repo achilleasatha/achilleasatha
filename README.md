@@ -25,11 +25,11 @@ I'm passionate about:
 - **Hobbies :** :kite::surfer: - :bike: - :motorcycle: - :minibus:
 - **Organization :** [FLYR Hospitality](https://flyr.com/hospitality/)
 
+For more information about me, see my [CV](https://achilleasatha.github.io/pdf/CV_AchilleasAthanasiouFragkoulis.pdf)
+
 ![github stats](https://github-readme-stats.vercel.app/api?username=achilleasatha&theme=dark&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=achilleasatha&size_weight=0.5&count_weight=0.5)](https://github.com/achilleasatha/github-readme-stats)
-
-For more information about me, see my [CV](https://achilleasatha.github.io/pdf/CV_AchilleasAthanasiouFragkoulis.pdf)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Achilleas_Athanasiou_Fragkoulis-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/achilleasathanasiou/) [![Gmail Badge](https://img.shields.io/badge/-achilleasatha@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:achilleasatha@gmail.com)](mailto:achilleasatha@gmail.com)
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fachilleasatha%2Fachilleasatha&countColor=%23263759)
