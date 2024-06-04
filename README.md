@@ -23,7 +23,7 @@ I'm passionate about:
                     <img src="https://github.com/achilleasatha/achilleasatha/blob/master/assets/grafana.png?raw=true" height="20"> Grafana
 - **Qualifications :** [Certified Scrum Product Owner](http://bcert.me/sadfwakig)
 - **Hobbies :** :kite::surfer: - :bike: - :motorcycle: - :minibus:
-- **Organization :** [FLYR Hospitality](https://flyr.com/hospitality/)
+- **Organization :** [Satalia](https://www.satalia.com/)
 
 For more information about me, see my [CV](https://achilleasatha.github.io/pdf/CV_AchilleasAthanasiouFragkoulis.pdf)
 
