@@ -27,7 +27,7 @@ I'm passionate about:
 
 For more information about me, see my [CV](https://achilleasatha.github.io/pdf/CV_AchilleasAthanasiouFragkoulis.pdf)
 
-![github stats](https://github-readme-stats.vercel.app/api?username=achilleasatha&theme=dark&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=achilleasatha&theme=dark&show_icons=true&rank_icon=github)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=achilleasatha&size_weight=0.5&count_weight=0.5&langs_count=10&layout=compact&hide=html,css,jupyter%20notebook,scss)](https://github.com/achilleasatha/github-readme-stats)
 
