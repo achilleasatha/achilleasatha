@@ -1,9 +1,6 @@
 ### Hi there 👋 I'm Achilleas Athanasiou Fragkoulis
 
-I'm passionate about:
-- ML engineering & ML Ops :cloud::rocket:
-- Data engineering :hammer_and_wrench:
-- Experimentation :microscope:
+I'm passionate about ML engineering & ML Ops :cloud::rocket:
 
 <hr \>
 
