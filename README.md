@@ -4,17 +4,14 @@ I'm passionate about ML engineering & ML Ops :cloud::rocket:
 
 <hr \>
 
-- **Languages:** <img src="https://github.com/achilleasatha/achilleasatha/blob/master/assets/python.jpg?raw=true" height="20"> Python, 
-                   <img src="https://github.com/achilleasatha/achilleasatha/blob/master/assets/sql.jpg?raw=true" height="20"> SQL, 
-- **Tech Stack :** <img src="https://github.com/achilleasatha/achilleasatha/blob/master/assets/hadoop.png?raw=true" height="20"> Hadoop,
-                    <img src="https://github.com/achilleasatha/achilleasatha/blob/master/assets/spark.png?raw=true" height="20"> Spark,
-                    <img src="https://github.com/achilleasatha/achilleasatha/blob/master/assets/spark.png?raw=true" height="20"> PySpark,
-                    <img src="https://github.com/achilleasatha/achilleasatha/blob/master/assets/kafka.png?raw=true" height="20"> Kafka,
-                    <img src="https://github.com/achilleasatha/achilleasatha/blob/master/assets/aws.png?raw=true" height="20"> AWS,
-                    <img src="https://github.com/achilleasatha/achilleasatha/blob/master/assets/s3.png?raw=true" height="20"> S3,
+- **Tech Stack :** <img src="https://github.com/achilleasatha/achilleasatha/blob/master/assets/python.jpg?raw=true" height="20"> Python, 
                     <img src="https://github.com/achilleasatha/achilleasatha/blob/master/assets/docker.png?raw=true" height="20"> Docker,
                     <img src="https://github.com/achilleasatha/achilleasatha/blob/master/assets/kubernetes.png?raw=true" height="20"> Kubernetes,
-                    <img src="https://github.com/achilleasatha/achilleasatha/blob/master/assets/airflow.png?raw=true" height="20"> Airflow,
+                    <img src="https://github.com/achilleasatha/achilleasatha/blob/master/assets/terraform.png?raw=true" height="20"> Terraform,
+                    <img src="https://github.com/achilleasatha/achilleasatha/blob/master/assets/kafka.png?raw=true" height="20"> Kafka,
+                    <img src="https://github.com/achilleasatha/achilleasatha/blob/master/assets/aws.png?raw=true" height="20"> AWS,
+                    <img src="https://github.com/achilleasatha/achilleasatha/blob/master/assets/gcp.png?raw=true" height="20"> GCP,
+                    <img src="https://github.com/achilleasatha/achilleasatha/blob/master/assets/azure.png?raw=true" height="20"> Azure,
                     <img src="https://github.com/achilleasatha/achilleasatha/blob/master/assets/argo.png?raw=true" height="20"> Argo,
                     <img src="https://github.com/achilleasatha/achilleasatha/blob/master/assets/prometheus.png?raw=true" height="20"> Prometheus,
                     <img src="https://github.com/achilleasatha/achilleasatha/blob/master/assets/grafana.png?raw=true" height="20"> Grafana
